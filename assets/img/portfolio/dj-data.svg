@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eff6fb"/>
+  <rect x="120" y="140" width="560" height="300" rx="18" fill="#dfeaf6"/>
+  <g fill="none" stroke="#0d3b66" stroke-width="4" stroke-linecap="round">
+    <path d="M170 390 L260 325 L330 350 L410 260 L500 280 L620 220"/>
+    <path d="M170 410 L260 355 L330 380 L410 290 L500 310 L620 250" opacity="0.6"/>
+  </g>
+  <g fill="#0d3b66">
+    <circle cx="170" cy="390" r="7"/>
+    <circle cx="260" cy="325" r="7"/>
+    <circle cx="330" cy="350" r="7"/>
+    <circle cx="410" cy="260" r="7"/>
+    <circle cx="500" cy="280" r="7"/>
+    <circle cx="620" cy="220" r="7"/>
+  </g>
+  <g fill="#ffffff" opacity="0.85">
+    <rect x="140" y="470" width="150" height="18" rx="9"/>
+    <rect x="320" y="470" width="220" height="18" rx="9"/>
+    <rect x="570" y="470" width="100" height="18" rx="9"/>
+  </g>
+  <text x="400" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#103d5d">Data Analysis</text>
+</svg>
